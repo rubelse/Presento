@@ -1,0 +1,62 @@
+/*galaxy fold and most of mobile phone*/
+@media(min-width: 279px) and (max-width: 319px){
+	/*code start*/
+.header-section .navbar-nav .nav-link{
+	margin: 0px 0px -8px 0px;
+}
+
+
+	/*code end*/
+}
+
+
+/*most of the mobile phones*/
+@media(min-width: 320px ) and (max-width: 480px){
+	/*code start*/
+	.header-section .navbar-nav .nav-link{
+	margin: 10px 10px -23px 0px;	
+}
+
+.header-section .btn-primary{
+	margin: 27px 1px 0px 0px;
+}
+.better-section h1{
+	font-size: 22px;
+	font-weight: 600;
+	line-height: 26px;
+	margin: -121px 0px 0px;
+}
+.better-section h5{
+	font-size: 15px;
+	line-height: 22px;
+}
+.better-section .btn-success{
+	font-size: 15px;
+   line-height: 24px;
+   padding: 7px 8px;
+}
+.provident-section .about-main-contant .btn-success{
+	margin: -44px 0px 41px;
+}
+/*code end*/
+
+}
+
+
+
+/*most of low rasulation tablate and mobile potrate mode*/
+@media(min-width: 481px ) and (max-width: 767px){
+/*code start*/
+
+/*code end*/
+
+}
+
+
+/*most of the tablate and notebooke */
+@media(min-width: 768px) and (max-width: 1024px ){
+	/*code start*/
+
+   /*code end*/
+
+}
